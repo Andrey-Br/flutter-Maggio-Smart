@@ -1,0 +1,1 @@
+const settingsKey = 'settingsKey';
